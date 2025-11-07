@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" preserveAspectRatio="xMidYMid meet" width="100%">
+    <defs>
+        <linearGradient id="title-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#4361ee"/>
+            <stop offset="100%" stop-color="#7209b7"/>
+        </linearGradient>
+        <style>
+            text {
+            font-family: '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', Helvetica, Arial, sans-serif;
+            font-weight: 800;
+            text-anchor: middle;
+            dominant-baseline: central;
+            }
+        </style>
+    </defs>
+    <text x="50%" y="40%" font-size="3.4rem" fill="url(#title-gradient)">
+        pwn4heap✨
+    </text>
+        <text x="50%" y="68%" font-size="1.2rem" fill="#586069" font-weight="500">
+        For Authorized Security Research and Educational Purposes Only
+    </text>
+</svg>
