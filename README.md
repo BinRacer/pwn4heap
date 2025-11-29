@@ -121,6 +121,7 @@ pwn4heap
 │   └── 2.27                            # Techniques for glibc 2.27
 │       ├── binary                      # binary files for glibc 2.27
 │       ├── fast_bin_attack
+│       ├── fast_bin_attack_bss
 │       ├── unsafe_unlink
 │       ├── unsafe_unlink_again
 │       ├── unsorted_bin_attack
