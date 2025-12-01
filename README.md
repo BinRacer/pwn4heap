@@ -124,6 +124,7 @@ pwn4heap
 │       ├── fast_bin_attack_bss
 │       ├── fast_bin_reverse_into_tcache
 │       ├── fast_bin_reverse_into_tcache_again
+│       ├── house_of_spirits
 │       ├── large_bin_attack
 │       ├── large_bin_attack_again
 │       ├── overlapping_chunks
