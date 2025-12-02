@@ -126,6 +126,7 @@ pwn4heap
 │       ├── fast_bin_reverse_into_tcache_again
 │       ├── house_of_einherjar
 │       ├── house_of_force
+│       ├── house_of_lore
 │       ├── house_of_spirits
 │       ├── large_bin_attack
 │       ├── large_bin_attack_again
