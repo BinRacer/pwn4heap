@@ -54,3 +54,4 @@
 | 52  | [house_of_apple_seven](./house_of_apple_seven/exploit.py)                                   |
 | 53  | [house_of_apple_eight](./house_of_apple_eight/exploit.py)                                   |
 | 54  | [house_of_tangerine](./house_of_tangerine/exploit.py)                                       |
+| 55  | [house_of_lore_again](./house_of_lore_again/exploit.py)                                     |
