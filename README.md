@@ -229,6 +229,7 @@ pwn4heap
 │   └── 2.35                            # Techniques for glibc 2.35
 │       ├── binary                      # binary files for glibc 2.35
 │       ├── fast_bin_attack_bss
+│       ├── tcache_house_of_spirit
 │       ├── tcache_metadata_poisoning
 │       ├── tcache_poisoning
 │       ├── tcache_poisoning_again
