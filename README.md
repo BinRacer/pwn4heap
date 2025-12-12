@@ -232,6 +232,7 @@ pwn4heap
 │       ├── tcache_metadata_poisoning
 │       ├── tcache_poisoning
 │       ├── tcache_poisoning_again
+│       ├── tcache_stashing_unlink_attack
 │       ├── unsafe_unlink
 │       ├── unsafe_unlink_again
 │       └── unsorted_bin_leak
