@@ -286,6 +286,7 @@ pwn4heap
 │       ├── house_of_husk
 │       ├── house_of_husk_again
 │       ├── house_of_lore
+│       ├── house_of_mind_fastbin
 │       ├── house_of_spirit
 │       ├── large_bin_attack
 │       ├── large_bin_attack_again
