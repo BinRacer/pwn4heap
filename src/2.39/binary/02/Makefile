@@ -7,7 +7,7 @@ TARGET = binary
 # Custom glibc base path
 ARCH := amd64
 VERSION := 2.39
-CUSTOM_GLIBC_BASE := /home/bogon/workSpaces/glibc-all-in-one/glibc
+CUSTOM_GLIBC_BASE := /opt/glibc
 
 # Default target: build the binary
 all: $(TARGET)
